@@ -33,4 +33,6 @@ Yago Piovesan Salvador
 - Antes de adicionar remotamente, sendo sua primeira vez, o git pedirá que digite seu usuário e sua senha, para acessar remotamente o usuário, esses são os dados que foram criados primeiramente, dito em cima.
 - após isso o próprio git dará um comando para adicionar ele remotamente;
 - este comando é: git remote add origin "aUrlDoSeuRepositório";
-- 
+- o repositório local e o remoto já foram linkados;
+- para adicionar o repositório local ao remoto, basta digitar: git push -u origin main
+- pronto, agora só recarregar a página do repositório do github que está aberta
