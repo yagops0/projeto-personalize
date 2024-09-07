@@ -35,4 +35,10 @@ Yago Piovesan Salvador
 - este comando é: git remote add origin "aUrlDoSeuRepositório";
 - o repositório local e o remoto já foram linkados;
 - para adicionar o repositório local ao remoto, basta digitar: git push -u origin main
-- pronto, agora só recarregar a página do repositório do github que está aberta
+- pronto, agora só recarregar a página do repositório do github que está aberta e os arquivos estaram salvos;
+
+## OBSERVAÇÕES
+
+- Todas as alterações que forem feitas no projeto teram que ser salvas;
+- mas apenas os comandos: git add ., git commit -m "mensagem", e git push, terão que ser feitos;
+- Sempre que criar um repositório novo terá que fazer os passos de criar um repositório local;
